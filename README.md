@@ -9,7 +9,7 @@
 <h4 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20" />  I’m currently learning Angular </h4> 
 
 <!-- skill -->
-## 🖥️  &nbsp; Languages and Tools:
+## 🖥️ Languages and Tools:
 `FRONT-END`
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -28,7 +28,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <!-- 聯絡我 -->
-## ✉️ &nbsp; Reach me:
+## ✉️ Reach me:
 
   <!-- LinkedIn -->
 
