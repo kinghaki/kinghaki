@@ -6,7 +6,7 @@
 
 ## 👨🏻‍💻 About Me:
 <h4 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20" /> I’m currently working on CMUH CO., LTD.</h4>
-<h4 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20" />  I’m currently learning Angular </h4> 
+<h4 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20" />  I’m currently learning Vue </h4> 
 
 <!-- skill -->
 ## 🖥️ Languages and Tools:
