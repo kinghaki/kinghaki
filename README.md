@@ -32,6 +32,4 @@
 
   <!-- LinkedIn -->
 
-<a href="tel:+886-905518387" target="_blank" rel="noopener">![WhatsApp](https://img.shields.io/badge/-0905518387-05122A?style=flat&logo=whatsapp)</a>
-
 <a href="mailto:ian8703031919@gmail.com" target="_blank" rel="noopener">![Gmail](https://img.shields.io/badge/-ian8703031919@gmail.com-05122A?style=flat&logo=gmail)
